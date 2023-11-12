@@ -6,7 +6,7 @@ I like to mod SM64-EXCOOP
 [![statistiks](https://github-readme-stats.vercel.app/api?username=GManTheMarioGuy&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/sm64jsarchived/sm64jsardchive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GManTheMarioGuy&repo=dark&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sm64jsarchivedy&repo=dark&theme=synthwave" />
 </a>
 <!--
 ## Web development stuff That I work with (Rust for servers!)
