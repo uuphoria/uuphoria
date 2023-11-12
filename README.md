@@ -4,7 +4,7 @@ Im currently the owner of my project called: SM64JSArchive
 I like to mod SM64-EXCOOP
 
 [![statistiks](https://github-readme-stats.vercel.app/api?username=GManTheMarioGuy&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&username=GManTheMarioGuy" height="150" alt="languages graph"  />
 </div>
 </a>
