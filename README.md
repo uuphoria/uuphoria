@@ -1,4 +1,4 @@
-### Ello There!
+### Ello There My youtube is GManTheMarioGuy, Tho I preferred to be called uuphoria here
 
 Im currently the owner of my project called: SM64JSArchive
 I like to mod SM64-EXCOOP
