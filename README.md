@@ -1,6 +1,6 @@
 ### Ello There My youtube name is GManTheMarioGuy, Tho I preferred to be called uuphoria on github.
 
-### Scoot TF2 Gaming
+### Scoot TF2 Gaming!
 ![](https://c.tenor.com/rOlb9wGrNYwAAAAM/scout-tf2.gif)
 
 Im currently the owner of my project called: SM64JSArchive
